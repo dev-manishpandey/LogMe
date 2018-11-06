@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
                       This is simple logging library
                        DESC
 
-  s.homepage         = 'https://github.com/Manish Pandey/LogMe'
+  s.homepage         = 'https://github.com/dev-manishpandey/LogMe'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Manish Pandey' => '' }
-  s.source           = { :git => 'https://github.com/Manish Pandey/LogMe.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/dev-manishpandey/LogMe.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
