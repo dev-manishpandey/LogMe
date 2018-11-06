@@ -1,0 +1,6 @@
+framework module LogMe {
+  umbrella header "LogMe-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LogMe (0.1.0)
+
+DEPENDENCIES:
+  - LogMe (from `../`)
+
+EXTERNAL SOURCES:
+  LogMe:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LogMe: 2567d98149722ccf41aaceee01cc108e1d8a5ed4
+
+PODFILE CHECKSUM: 81f03bed32066b81dc7a55374c0012f7b302b178
+
+COCOAPODS: 1.5.3

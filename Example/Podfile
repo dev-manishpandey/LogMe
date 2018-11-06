@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LogMe_Example' do
+  pod 'LogMe', :path => '../'
+
+  target 'LogMe_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
